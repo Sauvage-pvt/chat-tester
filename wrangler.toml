@@ -1,9 +1,4 @@
 name = "chat-tester"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
-
-route = "https://bedriftssok.lenkemotor.workers.dev/chat-tester"
-zone_id = ""
-
-[env.production]
-route = "https://bedriftssok.lenkemotor.workers.dev/chat-tester"
+workers_dev = true
